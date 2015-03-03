@@ -1,2 +1,2 @@
 # GraP
-Graph Processing, aka GraP, a general purpose computer langage.
+Graph Processing, a general purpose computer langage.
